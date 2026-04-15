@@ -1,10 +1,10 @@
 # thinkpad-l590-opencore
 Opencore EFI for Thinkpad l590
 
-## Tested on
+## Tested on macOS 15.7.3 (Sequoia)
  - Thinkpad L590
- - **GPU**: Intel UHD Graphics 620
- - **CPU**: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+ - **GPU**: Intel UHD Graphics 620 
+ - **CPU**: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz (Whiskey Lake)
 
 
 ## What works
