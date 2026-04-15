@@ -11,7 +11,9 @@ Opencore EFI for Thinkpad l590
  - Display, hardware acceleration
  - Wifi via HeliPort
  - Ethernet
- - USB devices
+ - Touchpad and keyboard
+ - USB flashdrives
+ - USB keyboard/mice
  - USB-C Video
  - Sleep
  - ??
